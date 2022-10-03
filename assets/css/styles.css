@@ -24,3 +24,12 @@ h2 {
 #sec-quienes-somos p {
   text-align:justify;
 }
+
+.card {
+  background:teal;
+}
+
+#sec-destacados img {
+  height:120px;
+  object-fit:cover;
+}
