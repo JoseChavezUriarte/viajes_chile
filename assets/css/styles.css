@@ -33,3 +33,12 @@ h2 {
   height:120px;
   object-fit:cover;
 }
+
+.btn {
+  background:teal;
+  color:white;
+}
+
+#sec-footer {
+  background:teal;
+}
